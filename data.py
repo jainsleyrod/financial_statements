@@ -81,9 +81,9 @@ essential_cf = [
     'netChangeInCash', 'finalLink'
 ]
 
-#financial modelling prep api only allows 250 requests per day
-# Process each ticker
-for ticker in tickers:
+#financial modelling prep api only allows 250 requests per day, ~80 companies per day, around 7 days to get all data
+
+for ticker in tickers[80:160]:
     try:
         # Fetch financial statements
         balance_sheet, cash_flow, income_statement = get_financial_statements(ticker, 1, api_key)

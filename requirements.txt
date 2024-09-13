@@ -6,3 +6,6 @@ plotly
 requests
 lxml
 yfinance
+mysql-connector-python
+sqlalchemy
+pymysql
