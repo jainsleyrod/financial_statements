@@ -9,3 +9,4 @@ yfinance
 mysql-connector-python
 sqlalchemy
 pymysql
+beautifulsoup4
