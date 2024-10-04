@@ -40,10 +40,10 @@ def get_stock_data(ticker):
 
 
 #get tickers of S&P 500 companies
-url = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
-companies = pd.read_html(url, header = 0)[0]
+url1 = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+companies = pd.read_html(url1, header = 0)[0]
 companies.columns = companies.columns.str.strip().str.replace(' ', '_')
-companies.to_csv('data/sp500_companies.csv', index=False)
+#companies.to_csv('data/sp500_companies.csv', index=False)
 
 tickers = list(companies['Symbol'])
 
@@ -53,8 +53,8 @@ session = requests.Session()
 session.headers.update({
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
 })
-
-response = session.get(url)
+url2 = "https://www.slickcharts.com/sp500"
+response = session.get(url2)
 if response.status_code == 200:
     html_content = response.text
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -75,7 +75,6 @@ for ticker in tickers:
     stock_data = pd.concat([stock_data, get_stock_data(ticker)], ignore_index=True)
 
 stock_data.columns = stock_data.columns.str.strip().str.replace(' ', '_')
-
 stock_data.to_csv('data/stock_data.csv', index=False)
 
 
@@ -86,7 +85,7 @@ cash_flow_df = pd.DataFrame()
 
 #Get financial statements for each ticker
 #financial modelling prep api only allows 250 requests per day, ~80 companies per day as each function call makes 3 requests 
-for ticker in tickers[:80]:
+for ticker in tickers:
     try:
         # Fetch financial statements for the past 3 years
         balance_sheet, income_statement, cash_flow = get_financial_statements(ticker, 3, api_key)
@@ -110,7 +109,6 @@ for ticker in tickers[:80]:
 balance_sheet_df.columns = balance_sheet_df.columns.str.strip().str.replace(' ', '_')
 income_statement_df.columns = income_statement_df.columns.str.strip().str.replace(' ', '_')
 cash_flow_df.columns = cash_flow_df.columns.str.strip().str.replace(' ', '_')
-
 # Save DataFrames to CSV
 balance_sheet_df.to_csv('data/balance_sheet.csv', index=False)
 income_statement_df.to_csv('data/income_statement.csv', index=False)
