@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 df = pd.DataFrame(pd.read_csv("data/financial_ratio.csv"))
 
 
-st.title("Financial Health Analysis")
+st.title("Financial Ratio Analysis")
 
 st.write("This section provides a snapshot of the company's financial health using key financial ratios.")
 

@@ -11,3 +11,5 @@ sqlalchemy
 pymysql
 beautifulsoup4
 streamlit
+scikit-learn
+seaborn
