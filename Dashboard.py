@@ -1,8 +1,8 @@
 import streamlit as st
-from pages import Company_Overview, Financial_Statements, Recommendation, Financial_Ratios
 
 # Main page setup
 st.set_page_config(page_title="S&P 500 Financial Health Dashboard", layout="wide")
+
 st.title("S&P 500 Financial Health Dashboard")
 st.write("""
 Welcome to the S&P 500 Financial Health Dashboard. This application provides an in-depth view of the financial statements and overall health of companies within the S&P 500 index.
