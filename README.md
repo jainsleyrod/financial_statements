@@ -1,7 +1,14 @@
 ## Steamlit dashboard to display financial statements of S&P 500 Companies
-* It is difficult for most people to read and understand the financial statements of a company
-* This project aims to present financial information for S&P500 companies in a user friendly dashboard using Streamlit
+* Many individuals find it difficult to read and understand financial statements, which can hinder their ability to make informed investment decisions
+* This project aims to create a user-friendly dashboard using Streamlit to present financial information for S&P 500 companies clearly and concisely, enhancing users' understanding of financial statements
+* By offering both quantitative and qualitative insights, the dashboard empowers them to make more informed investment decisions
 * Link to Dashboard: https://financial-statements-james.streamlit.app/
+
+## Features of Dashboard
+* Company Overview: General information of Companies
+* Financial Ratios Analysis: Important financial ratios and their definitions
+* Financial Statements Analysis: Breakdown of balance sheet, income statement, and cash flow statement
+* Recommendation: Recommend similar companies using the similarity matrix based on selected metrics like netIncome, stockPrice...
 
 ## Resources Used
 **Python Version**: 3.10
