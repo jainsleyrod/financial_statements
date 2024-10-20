@@ -1,10 +1,8 @@
 import pandas as pd
 import streamlit as st
-from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import pairwise_distances
-import matplotlib.pyplot as plt
-import seaborn as sns
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 bs = pd.read_csv('data/balance_sheet.csv')
 is_ = pd.read_csv('data/income_statement.csv')
@@ -33,63 +31,54 @@ latest_cf = latest_cf[['symbol', 'operatingCashFlow', 'netCashUsedForInvestingAc
 latest_data = pd.merge(latest_bs, latest_is, on='symbol')
 latest_data = pd.merge(latest_data, latest_cf, on='symbol')
 
-weightage.columns = ['symbol', 'weightage']
+#finanicial ratios
 final = pd.merge(latest_data, ratios, on='symbol')
+
+#weightage in sp500
+weightage.columns = ['symbol', 'weightage']
 final = pd.merge(final, weightage, on='symbol')
+final['weightage'] = final['weightage'].str.replace('%', '').astype(float)
 
+#stock price
 stock_data = stock_data.loc[stock_data.groupby('Ticker')['Date'].idxmax()]
-
 stock_data = stock_data[['Ticker', 'Close']]
 stock_data.columns = ['symbol', 'stock_price']
 
-#final dataframe
+#final dataframe with all important columns
 final = pd.merge(final, stock_data, on='symbol')
 
-final['weightage'] = final['weightage'].str.replace('%', '').astype(float)
-
-#Feature scaling
+#Feature scaling for numerical columns
 scaler = StandardScaler()
-scaled = scaler.fit_transform(final.drop(columns=['symbol']))
+features = final.drop(columns=['symbol'])
 
-# Fit K-Means model
-k = 5  # Choose a suitable number of clusters
-kmeans = KMeans(n_clusters=k, random_state=42)
-final['Cluster'] = kmeans.fit_predict(scaled)  # Assign clusters to the final DataFrame
+#Put more weight on stock price
+features['stock_price'] = features['stock_price'] * 3
+features_scaled = scaler.fit_transform(features)
 
-# Streamlit UI
-st.title("Company Recommendation System with K-Means")
+# Calculate the cosine similarity between companies
+similarity_matrix = cosine_similarity(features_scaled)
+similarity_df = pd.DataFrame(similarity_matrix, index=final['symbol'], columns=final['symbol'])
 
-# User selects a company
-selected_company = st.selectbox("Select a company you like:", final['symbol'].unique())
+# Streamlit title
+st.title('S&P 500 Company Recommendation System')
 
-if st.button("Get Recommendations"):
-    # Find the cluster of the selected company
-    selected_cluster = final[final['symbol'] == selected_company]['Cluster'].values[0]
-    selected_features = final[final['symbol'] == selected_company].drop(columns=['symbol', 'Cluster']).values
-    
-    # Get companies in the same cluster
-    recommendations = final[final['Cluster'] == selected_cluster]
-
-    # Calculate distances from the selected company
-    distances = pairwise_distances(recommendations.drop(columns=['symbol', 'Cluster']), selected_features)
-
-    # Add distances to recommendations DataFrame
-    recommendations['Distance'] = distances
-
-    # Set a threshold for distance (you can adjust this value)
-    distance_threshold = 20.0  # Adjust this value based on your dataset
-    strict_recommendations = recommendations[recommendations['Distance'] < distance_threshold]['symbol'].tolist()
-    
-    # Remove the selected company from recommendations
-    strict_recommendations = [company for company in strict_recommendations if company != selected_company]
-    
-    st.write("You might also like:")
-    if strict_recommendations:
-        for company in strict_recommendations:
-            st.write(company)
-    else:
-        st.write("No similar companies found in the same cluster.")
+# Streamlit sidebar input for company name
+company_name = st.selectbox('Select a Company', final['symbol'])
 
 
+# Function to recommend similar companies
+def recommend_similar(company, similarity_df, num_recommendations=3):
+    similar_scores = similarity_df[company].sort_values(ascending=False)
+    similar_companies = similar_scores.index[similar_scores.index != company]
+    return similar_companies[:num_recommendations]
 
 
+# If the user selects a company, display recommendations
+if company_name:
+    recommended_companies = recommend_similar(company_name, similarity_df)
+    st.write(f"### Here are some similar stocks you can buy:")
+    for i, company in enumerate(recommended_companies):
+        stock_price = round(final[final['symbol'] == company]['stock_price'].values[0],2)
+        # Display company name and stock price
+        st.write(f"{i + 1}. **{company}** - Stock Price: ${stock_price}")
+st.write("#### Check out more information about the recommneded companies in the other sections!")

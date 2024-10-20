@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import plotly.graph_objects as go   
 
 balance_sheet = pd.read_csv("data/balance_sheet.csv")
 income_statement = pd.read_csv("data/income_statement.csv")
@@ -39,15 +40,27 @@ if selected_statement == "balance_sheet":
     st.subheader("Trend Analysis")
     important_metrics = ['totalAssets', 'totalLiabilities', 'totalEquity']
     for metric in important_metrics:
-        plt.figure(figsize=(10, 5))
-        plt.plot(historical_data['calendarYear'], historical_data[metric], marker='o', label=metric.replace('total', 'Total '))
-        plt.title(f"Trend of {metric.replace('total', 'Total ')} Over Years")
-        plt.xlabel("Year")
-        plt.ylabel(metric)
-        years = historical_data['calendarYear'].unique()  # Get unique full years from the data
-        plt.xticks(years)  # Set the x-axis ticks to only show full years
-        st.pyplot(plt)
-    
+    # Create a Plotly figure
+        fig = go.Figure()
+        
+        # Add a line trace for the current metric
+        fig.add_trace(go.Scatter(
+            x=historical_data['calendarYear'],
+            y=historical_data[metric],
+            mode='lines+markers',
+            name=metric
+        ))
+        
+        # Customize layout
+        fig.update_layout(
+            title=f"Trend of {metric} Over Years",
+            xaxis_title="Year",
+            yaxis_title=metric,
+            xaxis=dict(tickmode='array', tickvals=historical_data['calendarYear'].unique())  # Set x-axis ticks to show full years
+        )
+
+        # Display the Plotly chart using Streamlit
+        st.plotly_chart(fig)
     st.subheader(f"Green Flags for {selected_company} Balance Sheet")
     df_list = bs_analysis[bs_analysis['symbol'] == selected_company].values.tolist()
     
@@ -86,14 +99,27 @@ elif selected_statement == "income_statement":
     st.subheader("Trend Analysis")
     important_metrics = ['revenue', 'costOfRevenue', 'netIncome']
     for metric in important_metrics:
-        plt.figure(figsize=(10, 5))
-        plt.plot(historical_data['calendarYear'], historical_data[metric], marker='o', label=metric.replace('total', 'Total '))
-        plt.title(f"Trend of {metric} Over Years")
-        plt.xlabel("Year")
-        plt.ylabel(metric)
-        years = historical_data['calendarYear'].unique()  # Get unique full years from the data
-        plt.xticks(years)  # Set the x-axis ticks to only show full years
-        st.pyplot(plt)
+    # Create a Plotly figure
+        fig = go.Figure()
+        
+        # Add a line trace for the current metric
+        fig.add_trace(go.Scatter(
+            x=historical_data['calendarYear'],
+            y=historical_data[metric],
+            mode='lines+markers',
+            name=metric
+        ))
+        
+        # Customize layout
+        fig.update_layout(
+            title=f"Trend of {metric} Over Years",
+            xaxis_title="Year",
+            yaxis_title=metric,
+            xaxis=dict(tickmode='array', tickvals=historical_data['calendarYear'].unique())  # Set x-axis ticks to show full years
+        )
+
+        # Display the Plotly chart using Streamlit
+        st.plotly_chart(fig)
     
     # Green Flags
     st.subheader(f"Green Flags for {selected_company} Income Statement")
@@ -134,14 +160,27 @@ else:
     st.subheader("Trend Analysis")
     important_metrics = ['operatingCashFlow', 'netCashUsedForInvestingActivites', 'netCashUsedProvidedByFinancingActivities']
     for metric in important_metrics:
-        plt.figure(figsize=(10, 5))
-        plt.plot(historical_data['calendarYear'], historical_data[metric], marker='o', label=metric)
-        plt.title(f"Trend of {metric} Over Years")
-        plt.xlabel("Year")
-        plt.ylabel(metric)
-        years = historical_data['calendarYear'].unique()  # Get unique full years from the data
-        plt.xticks(years)  # Set the x-axis ticks to only show full years
-        st.pyplot(plt)
+    # Create a Plotly figure
+        fig = go.Figure()
+        
+        # Add a line trace for the current metric
+        fig.add_trace(go.Scatter(
+            x=historical_data['calendarYear'],
+            y=historical_data[metric],
+            mode='lines+markers',
+            name=metric
+        ))
+        
+        # Customize layout
+        fig.update_layout(
+            title=f"Trend of {metric} Over Years",
+            xaxis_title="Year",
+            yaxis_title=metric,
+            xaxis=dict(tickmode='array', tickvals=historical_data['calendarYear'].unique())  # Set x-axis ticks to show full years
+        )
+
+        # Display the Plotly chart using Streamlit
+        st.plotly_chart(fig)
     
     # Green Flags
     st.subheader(f"Green Flags for {selected_company} Cash Flow Statement")

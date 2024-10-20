@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 
 with open('config.json') as f:
     config = json.load(f)
-api_key = config['api_key']
+api_key = config['finance_api_key']
 
 
 #function that returns the balance sheet, cash flow statement, and income statement for a given company and number of years
