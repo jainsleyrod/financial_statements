@@ -3,7 +3,6 @@ import pandas as pd
 import plotly.express as px
 import requests
 import json
-from eventregistry import *
 
 company = pd.read_csv('data/sp500_companies.csv')
 weightage = pd.read_csv('data/weightage.csv')
