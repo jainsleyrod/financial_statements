@@ -81,4 +81,4 @@ if company_name:
         stock_price = round(final[final['symbol'] == company]['stock_price'].values[0],2)
         # Display company name and stock price
         st.write(f"{i + 1}. **{company}** - Stock Price: ${stock_price}")
-st.write("#### Check out more information about the recommneded companies in the other sections!")
+st.write("#### Check out more information about the recommended companies in the other sections!")
