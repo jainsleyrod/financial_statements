@@ -1,0 +1,489 @@
+symbol,declining_gross_profit_margin,rising_sga_expenses,increasing_debt_burden,increasing_ebitda_margin,rising_operating_income,revenue_growth,red_flag_count,green_flag_count,pnl_final_count
+A,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+AAPL,NULL,NULL,"Increasing Debt Burden",NULL,NULL,NULL,1,0,-1
+ABBV,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+ABNB,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+ABT,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+ACGL,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+ACN,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+ADBE,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ADI,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ADM,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+ADP,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ADSK,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+AEE,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,3,2,-1
+AEP,NULL,"Rising SG&A Expenses",NULL,NULL,"Rising Operating Income",NULL,1,1,0
+AES,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",1,1,0
+AFL,NULL,NULL,NULL,NULL,"Rising Operating Income",NULL,0,1,1
+AIG,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+AIZ,NULL,"Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",1,2,1
+AJG,NULL,NULL,"Increasing Debt Burden",NULL,NULL,"Revenue Growth",1,1,0
+AKAM,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+ALB,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+ALGN,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ALL,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+ALLE,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+AMAT,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+AMCR,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+AMD,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+AME,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+AMGN,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+AMP,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+AMT,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+AMZN,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ANET,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ANSS,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+AON,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+AOS,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+APA,"Declining Gross Profit Margin",NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+APD,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+APH,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+APTV,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ARE,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ATO,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+AVB,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",2,2,0
+AVGO,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+AVY,NULL,NULL,"Increasing Debt Burden",NULL,NULL,NULL,1,0,-1
+AWK,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+AXON,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+AXP,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+AZO,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+BA,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+BAC,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+BALL,NULL,NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income",NULL,0,2,2
+BAX,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,3,2,-1
+BBWI,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,NULL,1,0,-1
+BBY,NULL,NULL,"Increasing Debt Burden",NULL,NULL,NULL,1,0,-1
+BDX,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+BEN,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+BG,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+BIIB,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,3,1,-2
+BK,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",1,1,0
+BKNG,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+BKR,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+BLDR,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+BLK,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+BMY,"Declining Gross Profit Margin",NULL,NULL,NULL,"Rising Operating Income",NULL,1,1,0
+BR,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+BRK-B,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+BRO,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+BSX,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+BWA,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+BX,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+BXP,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+C,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+CAG,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+CAH,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",2,2,0
+CARR,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,"Revenue Growth",2,2,0
+CAT,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CB,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+CBOE,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+CBRE,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+CCI,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+CCL,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CDNS,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+CDW,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin",NULL,NULL,1,1,0
+CE,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+CEG,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+CF,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+CFG,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+CHD,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+CHRW,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,NULL,2,0,-2
+CHTR,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+CI,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+CINF,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+CL,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+CLX,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin",NULL,NULL,1,1,0
+CMCSA,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CME,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CMG,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+CMI,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+CMS,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+CNC,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",1,1,0
+CNP,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+COF,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+COO,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+COP,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+COR,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+COST,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CPAY,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CPB,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+CPRT,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+CPT,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+CRL,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,"Revenue Growth",3,2,-1
+CRM,"Declining Gross Profit Margin",NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+CRWD,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CSCO,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+CSGP,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+CSX,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+CTAS,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CTLT,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+CTRA,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+CTSH,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+CTVA,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+CVS,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+CVX,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+CZR,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+D,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+DAL,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+DAY,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+DD,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+DE,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+DECK,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+DELL,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,1,1,0
+DFS,NULL,"Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",1,2,1
+DG,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+DGX,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+DHI,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+DHR,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+DIS,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+DLR,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+DLTR,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+DOC,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+DOV,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+DOW,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+DPZ,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+DRI,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+DTE,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+DUK,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+DVA,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+DVN,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,NULL,2,0,-2
+DXCM,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+EA,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+EBAY,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+ECL,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ED,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+EFX,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+EG,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+EIX,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+EL,NULL,NULL,"Increasing Debt Burden",NULL,NULL,NULL,1,0,-1
+ELV,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+EMN,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+EMR,NULL,NULL,NULL,"Increasing EBITDA Margin",NULL,NULL,0,1,1
+ENPH,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin",NULL,NULL,1,1,0
+EOG,"Declining Gross Profit Margin",NULL,NULL,"Increasing EBITDA Margin",NULL,NULL,1,1,0
+EPAM,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+EQIX,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+EQR,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+EQT,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+ERIE,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+ES,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income",NULL,3,1,-2
+ESS,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+ETN,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ETR,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+EVRG,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+EW,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+EXC,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+EXPD,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,NULL,1,0,-1
+EXPE,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+EXR,NULL,"Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",1,2,1
+F,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+FANG,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+FAST,"Declining Gross Profit Margin",NULL,NULL,NULL,"Rising Operating Income","Revenue Growth",1,2,1
+FCX,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+FDS,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+FDX,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+FE,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+FFIV,"Declining Gross Profit Margin",NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+FI,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+FICO,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+FIS,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+FITB,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+FMC,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,1,1,0
+FOX,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+FOXA,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+FRT,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+FSLR,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+FTNT,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+FTV,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+GD,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+GDDY,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+GE,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+GEHC,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,"Revenue Growth",2,2,0
+GEN,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+GEV,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+GILD,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,3,2,-1
+GIS,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+GL,NULL,NULL,"Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",1,2,1
+GLW,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+GM,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,"Revenue Growth",1,1,0
+GNRC,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+GOOG,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+GOOGL,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+GPC,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+GPN,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+GRMN,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",2,2,0
+GS,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+GWW,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+HAL,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+HAS,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+HBAN,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+HCA,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+HD,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+HES,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+HIG,NULL,"Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",1,2,1
+HII,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+HLT,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+HOLX,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+HON,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+HPE,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",1,1,0
+HPQ,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+HRL,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+HSIC,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+HST,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+HSY,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+HUBB,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+HUM,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+HWM,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+IBM,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+ICE,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+IDXX,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+IEX,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+IFF,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+INCY,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+INTC,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+INTU,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+INVH,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+IP,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+IPG,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,"Rising Operating Income",NULL,2,1,-1
+IQV,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+IR,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+IRM,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+ISRG,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+IT,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+ITW,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+IVZ,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+JBHT,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+JBL,NULL,NULL,NULL,NULL,"Rising Operating Income",NULL,0,1,1
+K,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,1,1,0
+KEYS,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+KLAC,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,1,1,0
+KMX,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+KO,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+KR,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+L,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",1,1,0
+LDOS,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,"Revenue Growth",1,2,1
+LEN,NULL,NULL,NULL,NULL,NULL,"Revenue Growth",0,1,1
+LH,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+LHX,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+LIN,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+LKQ,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+LLY,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+LMT,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+LNT,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+LOW,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+LRCX,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,NULL,1,0,-1
+LULU,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+LUV,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+LVS,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+LW,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+LYB,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+LYV,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+MA,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+MAA,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+MAR,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+MAS,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+MCD,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MCHP,"Declining Gross Profit Margin",NULL,NULL,"Increasing EBITDA Margin",NULL,NULL,1,1,0
+MCK,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+MCO,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MDLZ,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MDT,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+MET,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+META,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+MGM,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MHK,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,2,1,-1
+MKC,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MKTX,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+MLM,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MMC,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MMM,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+MNST,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MO,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+MOH,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+MOS,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+MPC,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+MPWR,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+MRK,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+MRNA,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+MRO,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+MS,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MSCI,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MSFT,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MSI,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MTB,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+MTCH,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+MTD,NULL,NULL,"Increasing Debt Burden",NULL,"Rising Operating Income",NULL,1,1,0
+MU,NULL,"Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",1,2,1
+NCLH,NULL,NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",0,3,3
+NDAQ,NULL,NULL,NULL,NULL,"Rising Operating Income",NULL,0,1,1
+NDSN,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,"Revenue Growth",3,2,-1
+NEE,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+NEM,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,3,1,-2
+NFLX,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+NI,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+NKE,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+NOC,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+NOW,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+NRG,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+NSC,NULL,NULL,"Increasing Debt Burden",NULL,NULL,NULL,1,0,-1
+NTAP,NULL,"Rising SG&A Expenses",NULL,NULL,"Rising Operating Income",NULL,1,1,0
+NTRS,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+NUE,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+NVDA,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+NVR,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,NULL,2,0,-2
+NWS,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+NWSA,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+NXPI,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+O,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+ODFL,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,NULL,2,0,-2
+OKE,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+OMC,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+ON,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income",NULL,2,1,-1
+ORCL,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ORLY,NULL,NULL,NULL,"Increasing EBITDA Margin",NULL,NULL,0,1,1
+OTIS,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+OXY,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,NULL,2,0,-2
+PANW,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+PARA,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,NULL,2,0,-2
+PAYC,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",2,2,0
+PAYX,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+PCAR,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+PCG,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+PEG,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+PEP,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+PFE,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+PFG,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+PG,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+PGR,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+PH,NULL,NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",0,3,3
+PHM,NULL,NULL,"Increasing Debt Burden",NULL,NULL,NULL,1,0,-1
+PKG,"Declining Gross Profit Margin",NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+PLD,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+PLTR,NULL,NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",0,3,3
+PM,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+PNC,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+PNR,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+PNW,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+PODD,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+POOL,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+PPG,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+PPL,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+PRU,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+PSA,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+PSX,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+PTC,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",2,2,0
+PWR,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+PYPL,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+QCOM,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+QRVO,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,"Revenue Growth",2,2,0
+RCL,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+REG,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+REGN,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+RF,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+RJF,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+RL,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+RMD,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+ROK,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ROL,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ROP,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+ROST,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+RSG,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+RTX,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+RVTY,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+SBAC,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+SBUX,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+SCHW,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+SHW,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+SJM,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+SLB,NULL,NULL,"Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",1,2,1
+SMCI,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",2,2,0
+SNA,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+SNPS,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+SO,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+SOLV,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+SPG,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+SPGI,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+SRE,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+STE,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+STLD,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+STT,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+STX,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,1,2,1
+STZ,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+SW,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,1,1,0
+SWK,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,1,1,0
+SWKS,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+SYF,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+SYK,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+SYY,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+T,NULL,NULL,"Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",1,2,1
+TAP,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",1,1,0
+TDG,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+TDY,"Declining Gross Profit Margin",NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+TECH,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+TEL,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+TER,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+TFC,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin",NULL,"Revenue Growth",2,2,0
+TFX,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+TGT,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+TJX,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+TMO,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+TMUS,NULL,NULL,NULL,NULL,"Rising Operating Income",NULL,0,1,1
+TPR,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+TRGP,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+TRMB,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+TROW,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+TRV,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+TSCO,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+TSLA,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+TSN,"Declining Gross Profit Margin",NULL,NULL,NULL,NULL,NULL,1,0,-1
+TT,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+TTWO,NULL,NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income",NULL,0,2,2
+TXN,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+TXT,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+TYL,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",2,2,0
+UAL,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+UBER,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+UDR,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+UHS,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+ULTA,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",2,2,0
+UNH,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+UNP,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+UPS,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+URI,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+USB,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",2,1,-1
+V,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",3,2,-1
+VICI,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+VLO,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,NULL,3,1,-2
+VLTO,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+VMC,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+VRSK,NULL,"Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",1,1,0
+VRSN,NULL,"Rising SG&A Expenses",NULL,NULL,"Rising Operating Income","Revenue Growth",1,2,1
+VRTX,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+VST,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+VTR,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+VTRS,NULL,NULL,NULL,"Increasing EBITDA Margin","Rising Operating Income",NULL,0,2,2
+VZ,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+WAB,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+WAT,NULL,"Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+WBA,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,"Revenue Growth",3,1,-2
+WBD,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,"Rising Operating Income","Revenue Growth",2,2,0
+WDC,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+WEC,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+WELL,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+WFC,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+WM,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+WMB,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,2,2,0
+WMT,NULL,"Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",2,3,1
+WRB,"Declining Gross Profit Margin","Rising SG&A Expenses",NULL,NULL,NULL,"Revenue Growth",2,1,-1
+WST,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin",NULL,"Revenue Growth",3,2,-1
+WTW,NULL,NULL,"Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+WY,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden",NULL,NULL,NULL,3,0,-3
+WYNN,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+XEL,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income",NULL,3,2,-1
+XOM,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+XYL,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+YUM,NULL,"Rising SG&A Expenses",NULL,"Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",1,3,2
+ZBH,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0
+ZBRA,"Declining Gross Profit Margin",NULL,"Increasing Debt Burden",NULL,NULL,NULL,2,0,-2
+ZTS,"Declining Gross Profit Margin","Rising SG&A Expenses","Increasing Debt Burden","Increasing EBITDA Margin","Rising Operating Income","Revenue Growth",3,3,0

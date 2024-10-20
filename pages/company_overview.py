@@ -42,10 +42,12 @@ st.plotly_chart(fig)
 
 #Get company name fron ticker
 selected_name = company[company['Symbol'] == selected_company]['Security'].values[0]
-
+'''
 with open('config.json') as f:
     config = json.load(f)
 api_key = config['serpi_api_key']
+'''
+api_key = st.secrets['general']['serpi_api_key']
 
 url = f'https://serpapi.com/search.json?engine=google&q={selected_name}&api_key={api_key}'
 # Fetch articles from SerpAPI

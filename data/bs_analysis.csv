@@ -1,0 +1,489 @@
+symbol,increasing_current_ratio,green_flag_positive_retained_earnings,increasing_working_capital,red_flag_high_accounts_receivable,increasing_debt_to_equity,decreasing_total_assets,red_flag_count,green_flag_count,bs_final_count
+A,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+AAPL,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,2,1
+ABBV,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+ABNB,NULL,NULL,NULL,"High Accounts Receivable",NULL,NULL,1,0,-1
+ABT,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,2,1
+ACGL,"Increasing Current Ratio","Positive Retained Earnings",NULL,"High Accounts Receivable",NULL,NULL,1,2,1
+ACN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+ADBE,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ADI,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+ADM,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,2,1
+ADP,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ADSK,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+AEE,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+AEP,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+AES,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+AFL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+AIG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+AIZ,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+AJG,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+AKAM,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+ALB,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+ALGN,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+ALL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+ALLE,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+AMAT,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+AMCR,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+AMD,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+AME,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+AMGN,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+AMP,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+AMT,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+AMZN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ANET,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+ANSS,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+AON,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+AOS,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+APA,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+APD,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+APH,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+APTV,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ARE,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+ATO,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+AVB,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+AVGO,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+AVY,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+AWK,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+AXON,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+AXP,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,1,-1
+AZO,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+BA,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+BAC,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+BALL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+BAX,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+BBWI,NULL,NULL,NULL,NULL,NULL,"Decreasing Total Assets",1,0,-1
+BBY,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+BDX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+BEN,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+BG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+BIIB,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+BK,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+BKNG,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+BKR,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+BLDR,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+BLK,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+BMY,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+BR,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+BRK-B,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+BRO,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+BSX,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+BWA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable","Increasing Debt to Equity Ratio","Decreasing Total Assets",3,3,0
+BX,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+BXP,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+C,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+CAG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+CAH,NULL,NULL,NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,0,-2
+CARR,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+CAT,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable",NULL,NULL,1,1,0
+CB,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,NULL,0,2,2
+CBOE,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+CBRE,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,3,1
+CCI,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+CCL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+CDNS,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+CDW,NULL,NULL,NULL,"High Accounts Receivable",NULL,NULL,1,0,-1
+CE,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+CEG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+CF,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,NULL,0,2,2
+CFG,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,2,1
+CHD,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+CHRW,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,"Decreasing Total Assets",2,3,1
+CHTR,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+CI,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+CINF,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+CL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+CLX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+CMCSA,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+CME,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+CMG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+CMI,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+CMS,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+CNC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+CNP,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+COF,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+COO,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+COP,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+COR,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,1,-1
+COST,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+CPAY,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+CPB,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+CPRT,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+CPT,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+CRL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+CRM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+CRWD,NULL,NULL,"Increasing Working Capital",NULL,NULL,NULL,0,1,1
+CSCO,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+CSGP,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+CSX,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+CTAS,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+CTLT,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+CTRA,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+CTSH,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+CTVA,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+CVS,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+CVX,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+CZR,NULL,NULL,NULL,NULL,NULL,"Decreasing Total Assets",1,0,-1
+D,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+DAL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+DAY,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+DD,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+DE,NULL,"Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,2,0
+DECK,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+DELL,NULL,NULL,NULL,NULL,NULL,"Decreasing Total Assets",1,0,-1
+DFS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+DG,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+DGX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+DHI,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+DHR,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+DIS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+DLR,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+DLTR,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+DOC,"Increasing Current Ratio",NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+DOV,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+DOW,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+DPZ,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+DRI,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+DTE,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+DUK,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+DVA,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+DVN,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+DXCM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+EA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+EBAY,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ECL,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+ED,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+EFX,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+EG,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+EIX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+EL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+ELV,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+EMN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+EMR,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ENPH,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+EOG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+EPAM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+EQIX,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+EQR,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+EQT,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+ERIE,NULL,"Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,2,1
+ES,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+ESS,NULL,NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+ETN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ETR,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+EVRG,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+EW,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+EXC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+EXPD,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio","Decreasing Total Assets",3,1,-2
+EXPE,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+EXR,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+F,NULL,"Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,2,0
+FANG,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+FAST,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,"Decreasing Total Assets",2,3,1
+FCX,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+FDS,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+FDX,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+FE,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+FFIV,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+FI,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+FICO,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+FIS,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+FITB,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+FMC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+FOX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+FOXA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+FRT,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+FSLR,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+FTNT,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+FTV,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+GD,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+GDDY,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+GE,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+GEHC,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+GEN,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,2,1
+GEV,NULL,NULL,NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,0,-2
+GILD,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+GIS,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+GL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+GLW,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+GM,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+GNRC,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,2,1
+GOOG,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+GOOGL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+GPC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+GPN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+GRMN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+GS,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+GWW,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+HAL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+HAS,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+HBAN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+HCA,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+HD,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+HES,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+HIG,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+HII,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,NULL,0,2,2
+HLT,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+HOLX,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+HON,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+HPE,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+HPQ,NULL,NULL,NULL,NULL,NULL,"Decreasing Total Assets",1,0,-1
+HRL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+HSIC,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+HST,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+HSY,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+HUBB,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+HUM,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+HWM,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+IBM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+ICE,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+IDXX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+IEX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+IFF,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+INCY,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+INTC,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+INTU,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+INVH,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+IP,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+IPG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+IQV,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+IR,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+IRM,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+ISRG,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,NULL,0,2,2
+IT,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+ITW,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,1,-1
+IVZ,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+JBHT,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+JBL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,"Decreasing Total Assets",2,3,1
+K,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+KEYS,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+KLAC,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+KMX,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+KO,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+KR,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+L,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+LDOS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+LEN,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+LH,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+LHX,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+LIN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+LKQ,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+LLY,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+LMT,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio","Decreasing Total Assets",3,1,-2
+LNT,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+LOW,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,2,1
+LRCX,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+LULU,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+LUV,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+LVS,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+LW,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+LYB,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+LYV,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+MA,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+MAA,NULL,NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+MAR,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+MAS,"Increasing Current Ratio",NULL,"Increasing Working Capital","High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,2,0
+MCD,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+MCHP,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+MCK,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,1,-1
+MCO,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+MDLZ,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,NULL,0,2,2
+MDT,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+MET,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+META,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+MGM,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+MHK,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+MKC,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+MKTX,NULL,"Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,2,1
+MLM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+MMC,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+MMM,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+MNST,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+MO,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+MOH,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+MOS,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+MPC,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+MPWR,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+MRK,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+MRNA,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+MRO,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+MS,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+MSCI,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+MSFT,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+MSI,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable",NULL,NULL,1,1,0
+MTB,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+MTCH,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+MTD,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+MU,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+NCLH,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+NDAQ,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+NDSN,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+NEE,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+NEM,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+NFLX,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+NI,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+NKE,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+NOC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+NOW,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+NRG,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+NSC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+NTAP,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+NTRS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+NUE,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+NVDA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+NVR,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+NWS,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,2,1
+NWSA,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,2,1
+NXPI,NULL,NULL,"Increasing Working Capital",NULL,NULL,NULL,0,1,1
+O,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+ODFL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+OKE,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+OMC,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable",NULL,NULL,1,1,0
+ON,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+ORCL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+ORLY,"Increasing Current Ratio",NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+OTIS,"Increasing Current Ratio",NULL,"Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,2,1
+OXY,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+PANW,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+PARA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+PAYC,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+PAYX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+PCAR,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+PCG,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+PEG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+PEP,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+PFE,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+PFG,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+PG,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+PGR,"Increasing Current Ratio","Positive Retained Earnings",NULL,"High Accounts Receivable",NULL,NULL,1,2,1
+PH,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+PHM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+PKG,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+PLD,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+PLTR,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+PM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+PNC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+PNR,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+PNW,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+PODD,NULL,NULL,"Increasing Working Capital",NULL,NULL,NULL,0,1,1
+POOL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+PPG,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+PPL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+PRU,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,NULL,0,2,2
+PSA,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+PSX,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+PTC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+PWR,NULL,"Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,2,1
+PYPL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable",NULL,NULL,1,3,2
+QCOM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+QRVO,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+RCL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+REG,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+REGN,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+RF,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+RJF,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+RL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+RMD,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+ROK,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ROL,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+ROP,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+ROST,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+RSG,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+RTX,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+RVTY,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+SBAC,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+SBUX,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+SCHW,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,2,1
+SHW,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+SJM,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+SLB,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+SMCI,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,3,1
+SNA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+SNPS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+SO,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+SOLV,NULL,NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+SPG,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+SPGI,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+SRE,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+STE,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+STLD,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+STT,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+STX,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+STZ,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+SW,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,NULL,0,2,2
+SWK,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+SWKS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+SYF,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,3,1
+SYK,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+SYY,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,1,-1
+T,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+TAP,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+TDG,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+TDY,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+TECH,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+TEL,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+TER,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,2,1
+TFC,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+TFX,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+TGT,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+TJX,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+TMO,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+TMUS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+TPR,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+TRGP,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+TRMB,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+TROW,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+TRV,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+TSCO,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+TSLA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+TSN,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+TT,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+TTWO,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,2,0
+TXN,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+TXT,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+TYL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,"Decreasing Total Assets",1,1,0
+UAL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+UBER,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+UDR,"Increasing Current Ratio",NULL,NULL,NULL,NULL,NULL,0,1,1
+UHS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+ULTA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+UNH,"Increasing Current Ratio","Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+UNP,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+UPS,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+URI,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+USB,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2
+V,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+VICI,NULL,"Positive Retained Earnings","Increasing Working Capital","High Accounts Receivable","Increasing Debt to Equity Ratio",NULL,2,2,0
+VLO,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+VLTO,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+VMC,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+VRSK,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+VRSN,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+VRTX,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+VST,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+VTR,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,2,1
+VTRS,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,2,1
+VZ,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+WAB,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+WAT,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+WBA,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+WBD,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,0,-2
+WDC,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+WEC,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+WELL,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+WFC,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+WM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+WMB,NULL,NULL,NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,0,-1
+WMT,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,3,3
+WRB,NULL,"Positive Retained Earnings",NULL,"High Accounts Receivable",NULL,"Decreasing Total Assets",2,1,-1
+WST,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+WTW,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,1,-1
+WY,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+WYNN,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0
+XEL,NULL,"Positive Retained Earnings",NULL,NULL,NULL,NULL,0,1,1
+XOM,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio",NULL,1,3,2
+XYL,NULL,"Positive Retained Earnings","Increasing Working Capital",NULL,NULL,NULL,0,2,2
+YUM,"Increasing Current Ratio",NULL,"Increasing Working Capital",NULL,NULL,NULL,0,2,2
+ZBH,NULL,"Positive Retained Earnings",NULL,NULL,"Increasing Debt to Equity Ratio",NULL,1,1,0
+ZBRA,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,"Increasing Debt to Equity Ratio","Decreasing Total Assets",2,3,1
+ZTS,"Increasing Current Ratio","Positive Retained Earnings","Increasing Working Capital",NULL,NULL,"Decreasing Total Assets",1,3,2

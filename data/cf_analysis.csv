@@ -1,0 +1,489 @@
+symbol,declining_operating_cash_flow,increased_capital_expenditures,increasing_debt_repayment,rising_free_cash_flow,decreasing_capital_expenditures,positive_net_change_in_cash,red_flag_count,green_flag_count,cf_final_count
+A,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+AAPL,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+ABBV,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+ABNB,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+ABT,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+ACGL,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+ACN,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+ADBE,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+ADI,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+ADM,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+ADP,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+ADSK,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+AEE,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,0,1,1
+AEP,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+AES,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+AFL,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",2,1,-1
+AIG,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+AIZ,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+AJG,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+AKAM,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,0,1,1
+ALB,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+ALGN,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+ALL,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+ALLE,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+AMAT,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+AMCR,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+AMD,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+AME,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+AMGN,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+AMP,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+AMT,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+AMZN,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+ANET,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+ANSS,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+AON,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+AOS,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+APA,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+APD,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+APH,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+APTV,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+ARE,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+ATO,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+AVB,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+AVGO,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+AVY,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+AWK,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+AXON,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+AXP,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+AZO,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+BA,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+BAC,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+BALL,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+BAX,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+BBWI,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+BBY,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+BDX,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+BEN,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+BG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+BIIB,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+BK,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+BKNG,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+BKR,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+BLDR,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+BLK,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+BMY,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+BR,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+BRK-B,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+BRO,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+BSX,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+BWA,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+BX,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+BXP,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+C,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+CAG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+CAH,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CARR,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CAT,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CB,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+CBOE,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+CBRE,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+CCI,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CCL,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+CDNS,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+CDW,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CE,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+CEG,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+CF,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+CFG,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+CHD,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CHRW,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+CHTR,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+CI,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CINF,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,0,1,1
+CL,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CLX,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+CMCSA,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+CME,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+CMG,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+CMI,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+CMS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CNC,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+CNP,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+COF,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+COO,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+COP,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+COR,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+COST,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+CPAY,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CPB,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+CPRT,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+CPT,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+CRL,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+CRM,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+CRWD,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+CSCO,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+CSGP,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+CSX,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+CTAS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+CTLT,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+CTRA,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+CTSH,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+CTVA,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+CVS,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+CVX,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+CZR,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+D,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+DAL,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+DAY,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+DD,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+DE,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+DECK,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+DELL,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+DFS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+DG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+DGX,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+DHI,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+DHR,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+DIS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+DLR,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+DLTR,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+DOC,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+DOV,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+DOW,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+DPZ,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+DRI,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+DTE,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+DUK,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+DVA,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+DVN,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+DXCM,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+EA,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+EBAY,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+ECL,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+ED,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+EFX,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+EG,NULL,NULL,NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",0,2,2
+EIX,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+EL,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+ELV,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+EMN,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+EMR,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+ENPH,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+EOG,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+EPAM,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+EQIX,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+EQR,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+EQT,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+ERIE,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+ES,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+ESS,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+ETN,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+ETR,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+EVRG,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+EW,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+EXC,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+EXPD,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+EXPE,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+EXR,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+F,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+FANG,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+FAST,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+FCX,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+FDS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+FDX,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,3,1,-2
+FE,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+FFIV,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+FI,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+FICO,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+FIS,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+FITB,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+FMC,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+FOX,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+FOXA,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+FRT,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+FSLR,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+FTNT,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+FTV,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+GD,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+GDDY,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+GE,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+GEHC,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+GEN,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+GEV,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+GILD,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+GIS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+GL,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+GLW,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+GM,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+GNRC,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+GOOG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+GOOGL,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+GPC,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+GPN,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+GRMN,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+GS,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+GWW,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+HAL,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+HAS,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+HBAN,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+HCA,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+HD,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+HES,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+HIG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+HII,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+HLT,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+HOLX,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+HON,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+HPE,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,3,1,-2
+HPQ,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+HRL,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+HSIC,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+HST,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+HSY,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+HUBB,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+HUM,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+HWM,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+IBM,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+ICE,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+IDXX,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+IEX,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+IFF,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+INCY,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+INTC,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+INTU,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+INVH,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+IP,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+IPG,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+IQV,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+IR,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+IRM,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+ISRG,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+IT,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+ITW,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+IVZ,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+JBHT,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+JBL,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",3,2,-1
+K,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+KEYS,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+KLAC,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+KMX,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+KO,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+KR,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+L,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+LDOS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+LEN,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+LH,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+LHX,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+LIN,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+LKQ,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+LLY,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+LMT,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+LNT,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+LOW,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+LRCX,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+LULU,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+LUV,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+LVS,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+LW,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,0,1,1
+LYB,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+LYV,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+MA,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+MAA,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+MAR,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+MAS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+MCD,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+MCHP,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+MCK,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+MCO,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+MDLZ,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+MDT,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+MET,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+META,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+MGM,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+MHK,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+MKC,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+MKTX,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+MLM,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+MMC,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+MMM,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+MNST,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+MO,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+MOH,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+MOS,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+MPC,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+MPWR,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+MRK,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+MRNA,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+MRO,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+MS,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+MSCI,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+MSFT,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+MSI,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+MTB,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+MTCH,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+MTD,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+MU,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+NCLH,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+NDAQ,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+NDSN,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+NEE,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+NEM,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+NFLX,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+NI,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+NKE,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+NOC,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+NOW,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+NRG,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+NSC,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+NTAP,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+NTRS,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,0,1,1
+NUE,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+NVDA,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+NVR,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+NWS,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+NWSA,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+NXPI,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+O,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+ODFL,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+OKE,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+OMC,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+ON,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+ORCL,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+ORLY,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,NULL,2,0,-2
+OTIS,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+OXY,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+PANW,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+PARA,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+PAYC,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+PAYX,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+PCAR,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+PCG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+PEG,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+PEP,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+PFE,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+PFG,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+PG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+PGR,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+PH,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+PHM,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+PKG,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+PLD,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+PLTR,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+PM,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+PNC,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+PNR,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+PNW,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+PODD,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+POOL,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+PPG,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+PPL,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+PRU,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,1,1,0
+PSA,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+PSX,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+PTC,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+PWR,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+PYPL,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+QCOM,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+QRVO,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+RCL,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+REG,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+REGN,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+RF,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+RJF,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+RL,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+RMD,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+ROK,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+ROL,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+ROP,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+ROST,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+RSG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+RTX,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+RVTY,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+SBAC,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+SBUX,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+SCHW,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,NULL,NULL,"Positive Net Change in Cash",2,1,-1
+SHW,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+SJM,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,0,1,1
+SLB,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+SMCI,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+SNA,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+SNPS,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+SO,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+SOLV,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+SPG,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+SPGI,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+SRE,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+STE,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+STLD,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+STT,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+STX,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+STZ,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+SW,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+SWK,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+SWKS,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+SYF,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+SYK,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+SYY,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+T,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+TAP,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+TDG,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+TDY,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+TECH,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+TEL,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+TER,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+TFC,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",3,2,-1
+TFX,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+TGT,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+TJX,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+TMO,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,3,1,-2
+TMUS,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+TPR,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+TRGP,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+TRMB,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",1,2,1
+TROW,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+TRV,NULL,NULL,NULL,"Rising Free Cash Flow",NULL,NULL,0,1,1
+TSCO,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+TSLA,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+TSN,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+TT,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+TTWO,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",3,2,-1
+TXN,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+TXT,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+TYL,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+UAL,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+UBER,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+UDR,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+UHS,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+ULTA,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+UNH,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+UNP,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+UPS,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+URI,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",0,2,2
+USB,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,NULL,3,0,-3
+V,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+VICI,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+VLO,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,1,2,1
+VLTO,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+VMC,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+VRSK,NULL,"Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,1,1,0
+VRSN,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+VRTX,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+VST,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+VTR,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+VTRS,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+VZ,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,NULL,2,1,-1
+WAB,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+WAT,"Declining Operating Cash Flow","Increased Capital Expenditures",NULL,"Rising Free Cash Flow",NULL,NULL,2,1,-1
+WBA,"Declining Operating Cash Flow",NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+WBD,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+WDC,NULL,"Increased Capital Expenditures","Increasing Debt Repayment","Rising Free Cash Flow",NULL,"Positive Net Change in Cash",2,2,0
+WEC,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+WELL,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+WFC,NULL,NULL,NULL,"Rising Free Cash Flow",NULL,"Positive Net Change in Cash",0,2,2
+WM,NULL,NULL,NULL,NULL,"Decreasing Capital Expenditures",NULL,0,1,1
+WMB,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+WMT,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+WRB,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+WST,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,1,1,0
+WTW,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+WY,"Declining Operating Cash Flow","Increased Capital Expenditures","Increasing Debt Repayment",NULL,NULL,"Positive Net Change in Cash",3,1,-2
+WYNN,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
+XEL,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",0,3,3
+XOM,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures",NULL,2,1,-1
+XYL,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+YUM,NULL,NULL,"Increasing Debt Repayment","Rising Free Cash Flow","Decreasing Capital Expenditures","Positive Net Change in Cash",1,3,2
+ZBH,NULL,NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",1,2,1
+ZBRA,"Declining Operating Cash Flow",NULL,"Increasing Debt Repayment",NULL,"Decreasing Capital Expenditures","Positive Net Change in Cash",2,2,0
+ZTS,NULL,NULL,NULL,"Rising Free Cash Flow","Decreasing Capital Expenditures",NULL,0,2,2
