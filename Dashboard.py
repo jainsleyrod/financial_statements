@@ -1,4 +1,5 @@
 import streamlit as st
+from pages import Company_Overview, Financial_Statements, Recommendation, Financial_Ratiosgit 
 
 # Main page setup
 st.set_page_config(page_title="S&P 500 Financial Health Dashboard", layout="wide")
